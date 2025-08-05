@@ -1,13 +1,13 @@
 # Java Employee Payroll System
 
-A beginner-friendly Java project that demonstrates key OOP concepts like abstraction, inheritance, and polymorphism through a simple terminal-based payroll system.
+A beginner-friendly Java project that demonstrates key OOPs concepts like abstraction, inheritance, and polymorphism ,Encapsulation through a simple terminal-based payroll system.
 
 ## Features
 - Add, view, and remove employees
 - Handle full-time and part-time employees
 - Calculate salaries using abstract methods
 - Menu-driven interface
-- Clean, modular OOP structure
+- Clean, modular OOPs structure
 
 ## Technologies
 - Java 8+
